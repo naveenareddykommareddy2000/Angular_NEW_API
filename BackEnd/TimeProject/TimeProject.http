@@ -1,0 +1,6 @@
+@TimeProject_HostAddress = http://localhost:5042
+
+GET {{TimeProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
